@@ -1,3 +1,4 @@
+# Numbers
 myint = 7
 print(myint)
 
@@ -6,10 +7,12 @@ print(myfloat)
 myfloat2 = float(7)
 print(myfloat2)
 
+# Strings
 mystring = 'hello'
 print(mystring)
 mystring2 = "hello"
 print(mystring2)
+
 mystring3 = "Don't worry about apostrophes"
 print(mystring3)
 
